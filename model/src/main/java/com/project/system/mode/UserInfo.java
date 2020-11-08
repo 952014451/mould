@@ -15,6 +15,7 @@ public class UserInfo {
     @TableField("password")
     private String password;
 
+
     public Integer getId() {
         return id;
     }
